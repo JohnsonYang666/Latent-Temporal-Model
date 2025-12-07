@@ -1,0 +1,16 @@
+archive/
+
+dataset/*.pkl
+
+results/**/*.pkl
+
+*.pkl
+*.npz
+*.pt
+*.npy
+*.h5
+*.zip
+*.tar.gz
+
+__pycache__/
+*.pyc
