@@ -1,0 +1,6 @@
+chex==0.1.90
+flax==0.10.7
+jax==0.6.2
+jaxlib==0.6.2
+matplotlib==3.10.3
+numpy==2.2.6
