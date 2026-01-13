@@ -15,6 +15,11 @@ pip install -r requirements.txt
 
 If you need to change dependencies, modify `requirements.txt` and reinstall.
 
+## Dataset
+
+For the purpose of peer review, the dataset is available via a Zenodo link
+(as described in `DATASET.md`).
+
 ## License
 
 This project is licensed under the Apache License 2.0. See the [LICENSE](./LICENSE) file for details.
